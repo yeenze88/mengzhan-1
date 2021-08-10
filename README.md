@@ -1,5 +1,5 @@
-<h1>⭐️萌站⭐️ 最新地址发布 mengzhan.me</h1>
-<img class="alignnone size-full" src="https://avatars.githubusercontent.com/u/82465551?v=4" width="264" height="264" />
+<h1>⭐️萌站⭐️ 最新地址发布（点击进入） <span style="color: #0000ee;"><a style="color: #0000ee;" href="https://www.mengzhan.me/">www.mengzhan.me</a></span></h1>
+<img class="alignnone size-full" src="https://avatars.githubusercontent.com/u/82465551?v=4" width="38%" height="38%" />
 <h2><a id="user-content-️长按复制到浏览器里面访问网址️" class="anchor" href="https://github.com/avyingtao/dz#%EF%B8%8F%E9%95%BF%E6%8C%89%E5%A4%8D%E5%88%B6%E5%88%B0%E6%B5%8F%E8%A7%88%E5%99%A8%E9%87%8C%E9%9D%A2%E8%AE%BF%E9%97%AE%E7%BD%91%E5%9D%80%EF%B8%8F" aria-hidden="true"></a>‼️长按复制到浏览器里面访问网址‼️</h2>
 <h2>⭐️ 👉 最新地址 ：<span style="color: #0000ee;"><a style="color: #0000ee;" href="https://www.mengzhan.me/">https://www.mengzhan.me/</a></span></h2>
 <h2>⭐️ 👉 萌站APP下载页 ：<span style="color: #0000ee;"><a style="color: #0000ee;" href="https://www.mengzhan.me/archives/180618">https://www.mengzhan.me/archives/180618</a></span></h2>
